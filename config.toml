@@ -1,0 +1,51 @@
+baseURL = 'https://k.zigzak.net/'
+copyright = 'Kenneth Geisshirt - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)'
+languageCode = 'en-us'
+title = "Kneth's Korner"
+description = "Chemist by education. Geek by nature. Lead engineer at MongoDB."
+theme = 'ficurinia'
+
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "paraiso-dark" # syntax highlighting style
+
+[Params]
+  darkmode = true # set true if you prefer dark mode
+
+[menu]
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  url = "/cv/"
+  weight = 20
+[[menu.icons]]
+  identifier = "email"
+  name = "Email"
+  url = "mailto:k-at-zigzak.net"
+  weight = 30
+[[menu.icons]]
+  identifier = "mastodon"
+  name = "Mastodon"
+  url = "https://social.zigzak.net/@kneth"
+  weight = 40
+[[menu.icons]]
+  identifier = "github"
+  name = "Github"
+  url = "https://github.com/kneth"
+  weight = 50
+[[menu.icons]]
+  identifier = "linkedin"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/kennethgeisshirt/"
+  weight = 60

@@ -1,0 +1,3 @@
+[submodule "themes/ficurinia"]
+	path = themes/ficurinia
+	url = https://github.com/riswan29/hugo-ficurinia
