@@ -1,7 +1,7 @@
 ---
 title: "Talks"
 date: 2023-02-10T08:27:57+01:00
-draft: true
+draft: false
 ---
 
 Over the years I have give talks about many different topic.
