@@ -29,6 +29,11 @@ enableInlineShortcodes = true
   name = "CV"
   url = "/cv/"
   weight = 20
+[[menu.main]]
+  identifier = "talks"
+  name = "Talks"
+  url = "/talks/"
+  weight = 25
 [[menu.icons]]
   identifier = "email"
   name = "Email"
