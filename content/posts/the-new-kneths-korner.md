@@ -8,4 +8,4 @@ draft: false
 
 My [old blog](https://kneths-korner.blogspot.com/) has been inactive for many years. And for the last five-six years, I haven't published any articles in computer magazines. It is time to revive my writing habits. This is a new beginning for Kneth's Korner.
 
-I am slowly returning to being self-hosted. The decentralized internet is more important than ever. To take back control, I have decided to host my blog on a server at home. As [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) is close to my heart, [Hugo](https://gohugo.io) seems to be a logical choice.
+As [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) is close to my heart, [Hugo](https://gohugo.io) seems to be a logical choice.
