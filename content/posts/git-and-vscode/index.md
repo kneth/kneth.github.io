@@ -1,6 +1,8 @@
 ---
 title: "Git and VSCode"
 date: 2018-10-27T08:05:09+02:00
+categories: [development, software engineering]
+tags: [git, vscode, github]
 draft: false
 ---
 

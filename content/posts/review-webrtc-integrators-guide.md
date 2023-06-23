@@ -1,6 +1,8 @@
 ---
 title: "Review of WebRTC Integrator's Guide"
 date: 2014-12-29T17:05:48+02:00
+categories: [development, review]
+tags: [javascript, web]
 draft: false
 ---
 

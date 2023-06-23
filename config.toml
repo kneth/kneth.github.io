@@ -18,6 +18,10 @@ enableInlineShortcodes = true
 [Params]
   darkmode = true # set true if you prefer dark mode
 
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
 [menu]
 [[menu.main]]
   identifier = "about"
