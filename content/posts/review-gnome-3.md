@@ -2,7 +2,7 @@
 title: "GNOME 3 - a review"
 date: 2012-02-02T18:30:56+02:00
 categories: [review]
-tags: [free software, GNOME]
+tags: [free software, GNOME, desktop]
 draft: false
 ---
 
