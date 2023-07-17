@@ -2,7 +2,7 @@
 title: "Free Chemistry Software - Quantum Chemistry"
 date: 2011-12-01T08:18:30+02:00
 categories: [chemistry]
-tags: [computational chemistry, chemistry, free software]
+tags: [computational chemistry, chemistry, free software, IYC]
 draft: false
 ---
 
