@@ -10,7 +10,7 @@ draft: false
 
 ### Notes in English
 
-* Co-authored by Peter Toft and Hanne Munkholm
+* Co-authors: [Peter Toft](https://www.linkedin.com/in/petertoftdk/) and [Hanne Munkholm](https://www.linkedin.com/in/hanne-munkholm/)
 * Published at sslug.dk
 * Original license: [http://www.opencontent.org/opl.shtml](https://web.archive.org/web/19991009175004/http://www.opencontent.org/opl.shtml)
 
