@@ -132,7 +132,7 @@ draft: false
 ### Feature articles
 * 100+ articles in Alt om DATA (2004 - 2019).
 * 10+ articles in DKUUGnyt (2000 - 2010).
-* [When memmove() fails](https://academy.realm.io/posts/when-memmove-fails/). Realm blog, 2017.
+* [When memmove() fails](/posts/when-memmove-fails/). Realm blog, 2017.
 * *Big data excavation with Apache Hadoop*. Linux Magazine, 144/2012.
 * *Backing up portables with Box Backup*. Linux Magazine, 88/2008.
 * *The status of the GNU Fortran project*. Linux Weekly News, November, 2005.

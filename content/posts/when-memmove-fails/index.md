@@ -1,9 +1,9 @@
 ---
 title: "When Memmove Fails"
 date: 2017-05-04T11:33:50+02:00
-categories: []
-tags: []
-draft: true
+categories: [programming]
+tags: [Android, Realm, bug]
+draft: false
 ---
 
 **This blog post was first published as [When memmove fails](https://academy.realm.io/posts/when-memmove-fails/)**
