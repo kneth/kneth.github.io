@@ -14,7 +14,8 @@ draft: false
 
 ## Experience
 
-* February 2020 - present: Lead engineer, [MongoDB](https://www.mongodb.com)
+* October 2024 - present: Director, [CrateDB](https://cratedb.com)
+* February 2020 - August 2024: Lead engineer, [MongoDB](https://www.mongodb.com)
 * June 2019 - January 2020: Senior engineer, [MongoDB](https://www.mongodb.com)
 * January 2012 - May 2019: Member of technical staff, TightDB/[Realm](https://realm.io)
 * August 2009 - December 2010: Edifor (freelance), Network Theory Ltd
