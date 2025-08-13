@@ -1,6 +1,6 @@
 ---
 title: "Remote Work Theorem"
-date: 2025-08-13T18:21:50+01:00
+date: 2025-08-13T14:58:03+01:00
 categories: [worklife]
 tags: [work, management]
 draft: false
