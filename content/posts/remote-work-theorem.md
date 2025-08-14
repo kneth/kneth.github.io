@@ -31,7 +31,7 @@ The theorem implies that three different combinations of work conditions exist. 
 
 With the Remote Work Theorem, and the trade-offs outlined above, it is possible to design a work environment for any given team or organization. By applying an *inverted work environment maneuver*, the two work conditions can be found to support the desired work environment.
 
-To mitigate the trade-offs when optimizing for *Speed* and *Deep Work*, processes can be designed. The processes will help the team to be able to communicate asynchronously as team members will know what to do next without slowing down by waiting (synchronization point) for other team members. While process should not come before people, the process can set the individual team members free and give them flexibility.
+To mitigate the trade-offs when optimizing for *Speed* and *Deep Work*, processes can be designed. The processes will help the team to be able to communicate asynchronously as team members will know what to do next without slowing down by waiting (synchronization point) for other team members. While processes should not come before people, the processes can set the individual team members free and give them flexibility.
 
 If *Deep Work* and *Knowledge Retention* are important, a clear team agreement on the asynchronous communication can lower the latency. An example of an agreement is that each team member spent time in the morning doing code reviews to unblock other team members. It requires a strong discipline to work in this regime as a single day missed for a reviewer, might waste a day for the other team members.
 
