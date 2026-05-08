@@ -7,6 +7,7 @@ draft: false
 Over the years I have give talks about many different topic.
 
 ### JavaScript
+* [Timestamps for the future - A brief introduction to Temporal](temporal.pdf) - [Copenhagen JS](https://copenhagenjs.dk), May 2026
 * [Building parsers in JavaScript](buildingparsersinjavascript-200221073752.pdf) - [Copenhagen JS](https://copenhagenjs.dk), February 2020
 * [micro:bit - JavaScript meets microcontroller](microbitandjavascript-190125061500.pdf) - [Copenhagen JS](https://copenhagenjs.dk), January 2019 - [video](https://www.youtube.com/watch?v=HYqxc_zjqMg&t=49s)
 * [Extending node.js using C++](node-151107092256-lva1-app6891.pdf) - [Øredev](https://oredev.org/) 2015
