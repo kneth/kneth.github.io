@@ -46,7 +46,7 @@ enableInlineShortcodes = true
 [[menu.icons]]
   identifier = "mastodon"
   name = "Mastodon"
-  url = "https://social.zigzak.net/@kneth"
+  url = "https://expressional.social/@kneth"
   weight = 40
 [[menu.icons]]
   identifier = "github"
