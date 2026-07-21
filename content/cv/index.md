@@ -14,13 +14,15 @@ draft: false
 
 ## Experience
 
-- October 2024 - present: Director, [CrateDB](https://cratedb.com)
+- March 2026 - July 2026: Director, [CrateDB](https://cratedb.com)
+- July 2025 - February 2026: VP of engineering (interim), [CrateDB](https://cratedb.com)
+- October 2024 - June 2025: Director (developer experience), [CrateDB](https://cratedb.com)
 - February 2020 - August 2024: Lead engineer, [MongoDB](https://www.mongodb.com)
 - June 2019 - January 2020: Senior engineer, [MongoDB](https://www.mongodb.com)
 - January 2012 - May 2019: Member of technical staff, TightDB/[Realm](https://realm.io)
-- August 2009 - December 2010: Edifor (freelance), Network Theory Ltd
+- August 2009 - December 2010: Editor (freelance), Network Theory Ltd
 - January 2005 – December 2011: Self-employed developer, system administrator
-- January 2004 – December 2019: Writer (freelance), Audio Media/[Alt om Data]
+- January 2004 – December 2019: Writer (freelance), Audio Media/Alt om Data
 - February 2004 – December 2004: Developer and technical writer, Medical Insight A/S
 - February 2007 – December 2007: External supervisor of students' projects, TEC (Frederiksberg)
 - August 2002 – January 2004: Consultant and software developer, Silex Science/[Cortex Consult](https://cortexconsult.dk)
@@ -34,6 +36,9 @@ draft: false
 
 ## Projects
 
+- [CrateDB agent skills](https://github.com/crate/agent-skills) (May 2026 - July 2026)
+  - `SKILLS.md` files for agentic platforms
+  - Claude Code, git
 - [Segfault Handler](https://github.com/ddopson/node-segfault-handler) (April 2018 - present)
   - Maintainer (since v1.1.0) of a small node.js module to help debugging C/C++ extensions
   - git, C++, JavaScript, npm, node.js
@@ -45,13 +50,13 @@ draft: false
   - Shell scripting, node.js, npm, TypeScript, Postgres, SQL Server, git
 - [Realm JavaScript](https://github.com/realm/realm-js) (August 2017 - August 2024)
   - Development of JavaScript SDK for the Realm database
-  - Shell scripting, C++, JavaScript, React Native, node.js, npm, git, CMake
+  - Shell scripting, C++, JavaScript, TypeScript, React Native, node.js, npm, git, CMake
 - [Realm Java Benchmarks](https://github.com/realm/realm-java-benchmarks) (February 2016 - May 2016)
   - Development of benchmark suite of mobile databases
   - Java, Android, git, Python
 - [Realm Java](https://github.com/realm/realm-java) (August 2014 - August 2017)
   - Development of Android SDK for Realm database
-  - C++, Java, NDK, git, shell scripting
+  - C++, Java, Android NDK, git, shell scripting
 - TightDB Node (February 2012 - January 2014)
   - Development of Node SDK for TightDB database
   - C++, JavaScript, shell scripting, git
@@ -105,10 +110,10 @@ draft: false
   - Perl, shell scripting
 - [MDreac](https://github.com/kneth/MDreac/tree/master/oldsrc) (January 1995 – December 1997)
   - Development of parallel software for simulation of large reactive mixtures undergoing phase separation
-  - Fortran-77, PVM
+  - Fortran-77, PVM, make
 - EDCS (February 1996 – August 1997(
   - Development of simulation software for 1-dimensional granular media coupled to thermostats
-  - C
+  - C, make
 - [Kinetic Compiler](https://github.com/kneth/kc) (May 1992 – December 1993)
   - Design and development of domain specific language for simulations and analysis of complex chemical reactions
   - C, make, lex & yacc
