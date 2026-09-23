@@ -147,3 +147,13 @@ draft: false
 - _Big data excavation with Apache Hadoop_. Linux Magazine, 144/2012.
 - _Backing up portables with Box Backup_. Linux Magazine, 88/2008.
 - _The status of the GNU Fortran project_. Linux Weekly News, November, 2005.
+
+## Volunteering
+
+- Member of program committee, [Øredev](https://oredev.org/). February 2025 - present.
+- Presenter, [Matematikcenter](https://www.matematikcenter.dk/). October 2023 - present.
+- Mentor, Team Universal Robots (a [First Robotics Competition](https://www.firstinspires.org/) team). December 2015 - April 2016.
+- Role model/presenter, [IT Branchen](https://itb.dk/). April 2008 - August 2011.
+- Board member, [BørneUNI](https://borneuni.dk/). October 2017 - June 2020. 
+- Board member, [Vestre Bygade 31](https://www.taarnby.dk/borger/born-unge-og-familie/dagtilbud-0-6-ar/bornehuse/vestre-bygade-31/). October 2008 - October 2011.
+- Chair of the Board of Directors, Open Source Days ApS. July 2009 - May 2011.

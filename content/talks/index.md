@@ -32,3 +32,5 @@ Over the years I have give talks about many different topic.
 * [Unleash your inner console cowboy](consolecowboy-151107092035-lva1-app6892.pdf) - [Øredev](https://oredev.org/) 2015
 * [Kendthed og vigtighed - om sociale netværk](sociale-netvrk-140930085739-phpapp01.pdf)
 * [Building, testing, and releasing a multiplatform SDK with GitHub Actions](RJS_and_GitHub_Actions_-_CopenhagenJS_September_2023.pdf) - [Copenhagen JS](https://copenhagenjs.dk), September 2023
+* [Forældrematematik oplæg](https://www.webmatematik.dk/lektioner/til-foraeldre/foraeldrematematik-oplaeg)
+
