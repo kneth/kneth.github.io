@@ -22,6 +22,7 @@ Over the years I have give talks about many different topic.
 * [Tips and Tricks for Building High-Performance Android Apps using Native Code](tips-n-tricks-building-android-apps-with-native-code.pdf) 2015
 
 ### Databases and Data Engineering
+* [Local-first apps - concepts and examples](cphjs-localfirst.pdf) - [Copenhagen JS](https://copenhagenjs.dk), October 2026. Examples: [automerge](https://code.zigzak.net/kneth/talks/src/branch/main/cphjs-localfirst/example/automerge), [RxDB](https://code.zigzak.net/kneth/talks/src/branch/main/cphjs-localfirst/example/rxdb)
 * [Apache Hadoop - værktøjskasse til Big Data](dkuug-21aug2012-120823031713-phpapp02.pdf) - [DKUUG](http://www.dkuug.dk/), April 2012
 * [Is the database a solved problem?](is-the-database-a-solved-problem.pdf)
 
