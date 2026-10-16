@@ -15,6 +15,9 @@ enableInlineShortcodes = true
   [markup.highlight]
     style = "paraiso-dark" # syntax highlighting style
 
+[outputs]
+  home = ["HTML", "RSS"]
+
 [Params]
   darkmode = true # set true if you prefer dark mode
 
